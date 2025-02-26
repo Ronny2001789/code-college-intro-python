@@ -35,3 +35,8 @@ print("good things take time.\nall people deserve the best.\n\tteachers always h
 
 my_name,surname,my_car ="ronny","mputla","bmw"
 print(my_name + my_car)
+
+nostarch_url = 'https://nostarch.com'
+nostarch_url.removeprefix('https://')
+
+3 + 5
